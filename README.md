@@ -1,3 +1,15 @@
+# owlchemy starter
+It is like wowchemy but wiser like an owl.
+
+Things I did:
+1. Download Hugo Academic .zip, unzip, and put it here
+2. add a github action based on [hugo-setup](https://github.com/marketplace/actions/hugo-setup#getting-started)
+3. do gh-pages 1st commit setup
+4. create config.yml to set up CMS [[ref](https://wowchemy.com/docs/getting-started/hugo-cms/#1-enable-the-cms-integration)]
+5. mod config.yml based on [this discussion](https://github.com/wowchemy/wowchemy-hugo-themes/discussions/2559#discussioncomment-1840591)
+6. create content/admin/index.md [[ref](https://wowchemy.com/docs/getting-started/hugo-cms/#1-enable-the-cms-integration)]
+7. stalled out b/c of `Unable to access identity settings. When using git-gateway backend make sure to enable Identity service and Git Gateway.` err which links to [here](https://docs.netlify.com/visitor-access/git-gateway/#setup-and-settings)
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
